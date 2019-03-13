@@ -1,0 +1,5 @@
+The following things were correct about your submission:
+
+We expected to find a function named to_dictionaries in your code, and we did.
+
+We tested your code with nation_objects = [<ProgramInspector.Nation object at 0x7f1386573da0>, <ProgramInspector.Nation object at 0x7f138a070e10>]. We expected to_dictionaries to return the dict {'Albania': {'iso_code': 8, 'iso_long': 'ALB', 'capital': 'Tirana', 'long_name': 'Republic of Albania', 'iso_short': 'AL'}, 'Angola': {'iso_code': 24, 'iso_long': 'AGO', 'capital': 'Luanda', 'long_name': 'Republic of Angola', 'iso_short': 'AO'}}, and it did.

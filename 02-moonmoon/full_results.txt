@@ -1,0 +1,73 @@
+The following things were correct about your submission:
+
+We expected to find a function named generate_name in your code, and we did.
+
+We tested your code with name = "Addison Zook", filename = "heronames-copy.txt". We expected generate_name to return the str "Captain Hawk", and it did.
+
+We tested your code with name = "Uma Irwin", filename = "heronames-copy.txt". We expected generate_name to return the str "Doctor Yellow Jacket", and it did.
+
+We tested your code with name = "David Joyner", filename = "heronames-copy.txt". We expected generate_name to return the str "Moon Moon", and it did.
+
+We tested your code with name = "Altagracia Slate", filename = "heronames-pvcvNQ.txt". We expected generate_name to return the str "Rocket Fist", and it did.
+
+We tested your code with name = "Caryl March", filename = "heronames-pvcvNQ.txt". We expected generate_name to return the str "Metal Moon", and it did.
+
+We tested your code with name = "Kurt Saechao", filename = "heronames-pvcvNQ.txt". We expected generate_name to return the str "Omega Fist", and it did.
+
+We tested your code with name = "Justa Gil", filename = "heronames-pvcvNQ.txt". We expected generate_name to return the str "Ancident Ghost", and it did.
+
+We tested your code with name = "Chae Thurmond", filename = "heronames-pvcvNQ.txt". We expected generate_name to return the str "Metal Skull", and it did.
+
+The contents of heronames-copy.txt are the same as shown in your workspace. The contents of heronames-pvcvNQ.txt are shown below:
+Rocket
+Wonder
+Metal
+Super
+Captain
+Doctor
+Iron
+Crimson
+Night
+Ancident
+Omega
+Golden
+Incredible
+Power
+Impossible
+Lord
+Moon
+Spider
+Radioactive
+Professor
+Masked
+Green
+Invisible
+Silver
+Dark
+X
+Ghost
+Doom
+Soldier
+Surfer
+Centurion
+Knight
+Ghost
+Yellow Jacket
+Hornet
+Thunder
+Machine
+Shadow
+Moon
+Hulk
+Z
+Phantom
+Hawk
+Warriors
+Fist
+Skull
+Falcon
+Torch
+Hurricane
+Lightning
+Claw
+Sun

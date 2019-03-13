@@ -1,0 +1,29 @@
+The following things were correct about your submission:
+
+We expected to find a function named next_move in your code, and we did.
+
+We tested your code with hand = "A3". We expected next_move to return the str "Hit", and it did.
+
+We tested your code with hand = "A39". We expected next_move to return the str "Hit", and it did.
+
+We tested your code with hand = "A397". We expected next_move to return the str "Stay", and it did.
+
+We tested your code with hand = "A397K". We expected next_move to return the str "Bust", and it did.
+
+We tested your code with hand = "A7". We expected next_move to return the str "Stay", and it did.
+
+We tested your code with hand = "06". We expected next_move to return the str "Hit", and it did.
+
+We tested your code with hand = "067". We expected next_move to return the str "Bust", and it did.
+
+We tested your code with hand = "J9". We expected next_move to return the str "Stay", and it did.
+
+We tested your code with hand = "35". We expected next_move to return the str "Hit", and it did.
+
+We tested your code with hand = "359". We expected next_move to return the str "Stay", and it did.
+
+We tested your code with hand = "49". We expected next_move to return the str "Hit", and it did.
+
+We tested your code with hand = "49K". We expected next_move to return the str "Bust", and it did.
+
+We tested your code with hand = "9J". We expected next_move to return the str "Stay", and it did.
